@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloud.iml" filepath="$PROJECT_DIR$/.idea/SpringCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/currencyexchangeservice/currencyexchangeservice.iml" filepath="$PROJECT_DIR$/currencyexchangeservice/currencyexchangeservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/limitservice/limitservice.iml" filepath="$PROJECT_DIR$/limitservice/limitservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudconfigserver/springcloudconfigserver.iml" filepath="$PROJECT_DIR$/springcloudconfigserver/springcloudconfigserver.iml" />
     </modules>
