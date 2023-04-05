@@ -4,6 +4,7 @@
     <file url="file://$PROJECT_DIR$/currencyconversionservice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/currencyexchangeservice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/limitservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/namingserver/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloudconfigserver/src/main/java" charset="UTF-8" />
   </component>
 </project>

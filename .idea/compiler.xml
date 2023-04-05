@@ -10,6 +10,7 @@
         <module name="currencyconversionservice" />
         <module name="springcloudconfigserver" />
         <module name="limitservice" />
+        <module name="namingserver" />
         <module name="currencyexchangeservice" />
       </profile>
     </annotationProcessing>
@@ -23,6 +24,7 @@
       <module name="currencyconversionservice" options="-parameters" />
       <module name="currencyexchangeservice" options="-parameters" />
       <module name="limitservice" options="-parameters" />
+      <module name="namingserver" options="-parameters" />
       <module name="springcloudconfigserver" options="-parameters" />
     </option>
   </component>
