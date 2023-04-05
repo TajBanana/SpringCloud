@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/currencyexchangeservice/pom.xml" />
         <option value="$PROJECT_DIR$/currencyconversionservice/pom.xml" />
         <option value="$PROJECT_DIR$/namingserver/pom.xml" />
+        <option value="$PROJECT_DIR$/apigateway/pom.xml" />
       </list>
     </option>
   </component>
