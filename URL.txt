@@ -8,6 +8,15 @@
   "environment": "8000 instance-id"
 }
 
+http://localhost:8080/limits
+http://localhost:8888/limits-service/default
+http://localhost:8000/currency-exchange/from/USD/to/SGD
+http://localhost:8100/currency-conversion-feign/from/USD/to/INR/quantity/10
+
+Eureka server
+http://localhost:8761/
+
+
 Initial
 
 - http://localhost:8765/CURRENCY-EXCHANGE/currency-exchange/from/USD/to/INR
