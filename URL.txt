@@ -46,3 +46,8 @@ Custom Routes
 - http://localhost:8765/currency-conversion-feign/from/USD/to/INR/quantity/10
 
 - http://localhost:8765/currency-conversion-new/from/USD/to/INR/quantity/10
+
+
+watch curl http://localhost:8000/sample-api
+
+watch -n 0.1 curl http://localhost:8000/sample-api
